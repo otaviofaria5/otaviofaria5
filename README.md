@@ -111,7 +111,21 @@ Acredito que **diversidade e empatia constroem equipes mais fortes.**
 ---
 
 ## 🌟 Featured Projects / Projetos em Destaque
+💼 Projetos Reais na Elumini
+🧩 Sistema Enter — Cadastro de Vagas e Usuários
 
+🛠 Tecnologias: Node.js, React, MongoDB
+💡 Desenvolvimento de um sistema web corporativo para gerenciamento de vagas e perfis de usuários.
+Implementação de autenticação, CRUDs completos e integração com APIs RESTful.
+Front-end em React com design responsivo e foco em usabilidade.
+Banco de dados não relacional com MongoDB, otimizando o armazenamento e consulta de dados.
+
+💰 Sistema de Gestão de Faturamento — Setor Financeiro
+
+🛠 Tecnologias: C#, ASP.NET Core, Angular, SQL Server
+💡 Aplicação voltada à gestão de faturamento e controle financeiro interno da empresa.
+Desenvolvimento de módulos de relatórios, dashboards e automação de processos financeiros.
+Integração com banco de dados corporativo SQL Server e aplicação de boas práticas de arquitetura em camadas (API + Frontend + DB).
 | 💻 Projeto | 📝 Descrição |
 |-------------|--------------|
 | 📚 **Sistema de Empréstimos de Livros** | Aplicação completa com Angular + ASP.NET Core + MongoDB. |
