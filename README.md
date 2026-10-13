@@ -111,18 +111,11 @@ Acredito que **diversidade técnica e humana fortalece a qualidade do software.*
 
 | 💻 Projeto | 📝 Descrição |
 |-------------|--------------|
-| 🧩 **Sistema Enter** | Plataforma para gestão de vagas e talentos com **Node.js**, **React** e **MongoDB**, incluindo autenticação e CRUD completo. |
 | 💰 **Gestão de Faturamento** | Aplicação financeira interna desenvolvida com **ASP.NET Core**, **Angular** e **SQL Server**, focada em conciliação e relatórios. |
 | 📚 **Sistema de Empréstimos de Livros** | Arquitetura desacoplada utilizando **Angular**, **ASP.NET Core** e **MongoDB**. |
 
 ---
 
-## 📊 GitHub Insights
-
-![Otavio's GitHub stats](https://github-readme-stats.vercel.app/api?username=otaviorodriguesfaria&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviorodriguesfaria&layout=compact&theme=tokyonight)
-
----
 
 ## 🌎 Let's Connect / Contato
 
