@@ -68,13 +68,13 @@ Experiência em regras de negócio financeiras, motores de cálculo e cotação,
 
 ## 💼 Professional Experience / Experiência Profissional
 
-### 🏥 **Assistente de Engenharia de Software — SulAmérica (Atual)**
+### 🏥 **Assistente de Engenharia de Software — SulAmérica (Julho/2026 - Atual)**
 - Atuação no desenvolvimento front-end com foco em **React** para módulos financeiros e precificação de planos de saúde.
 - Implementação de regras de negócio, fluxos de tomada de decisão e lógica de cotação/valores.
 - Criação e manutenção de **testes unitários**, assegurando confiabilidade em cálculos e estabilidade nas entregas.
 - Trabalho com foco em Clean Code, componentização limpa e alinhamento com times multidisciplinares em ambiente ágil.
 
-### 👨‍💻 **Assistente de Desenvolvimento Web — Elumini (Out/2022 – 2024)**
+### 👨‍💻 **Assistente de Desenvolvimento Web — Elumini (Out/2022 – Julho/2026)**
 - Desenvolvimento de aplicações web corporativas com **C# (ASP.NET Core)**, **Angular** e **React**.  
 - Criação e consumo de **APIs RESTful** em **Node.js** e **ASP.NET Core**.  
 - Modelagem e persistência com **SQL Server** e **MongoDB**.  
